@@ -55,3 +55,15 @@ ul li svg {
     width: 12px;
     height: 12px;
 }
+
+.tech{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 115px;
+    height: 35px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    padding: 20px;
+}
